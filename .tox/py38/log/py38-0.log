@@ -1,0 +1,7 @@
+action: py38, msg: getenv
+cwd: C:\Users\lyluk\source\pythontrial\.tox
+cmd: 'c:\python38\python.exe' -m virtualenv --no-download --python 'c:\python38\python.exe' py38
+created virtual environment CPython3.8.2.final.0-64 in 6141ms
+  creator CPython3Windows(dest=C:\Users\lyluk\source\pythontrial\.tox\py38, clear=False, global=False)
+  seeder FromAppData(download=False, pip=latest, setuptools=latest, wheel=latest, via=copy, app_data_dir=C:\Users\lyluk\AppData\Local\Temp\tmp5tfojveb\seed-app-data\v1)
+  activators BashActivator,BatchActivator,FishActivator,PowerShellActivator,PythonActivator,XonshActivator
