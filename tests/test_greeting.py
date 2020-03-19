@@ -6,7 +6,7 @@ class TestGreeting(unittest.TestCase):
     def test_hello(self):
         testparams = [
             ["Lilla", "Hello Lilla"],
-            ["Béla", "Helloka Béla"],
+            ["Béla", "Hello Béla"],
         ]
         for name, greeting in testparams:
             with self.subTest("Testing with data", input=name, expected=greeting):
