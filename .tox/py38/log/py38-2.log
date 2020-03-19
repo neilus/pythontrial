@@ -1,4 +1,0 @@
-action: py38, msg: envreport
-cwd: C:\Users\lyluk\source\pythontrial
-cmd: 'C:\Users\lyluk\source\pythontrial\.tox\py38\Scripts\python.EXE' -m pip freeze
-parameterized==0.7.1
