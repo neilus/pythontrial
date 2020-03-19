@@ -1,7 +1,0 @@
-action: py38, msg: getenv
-cwd: C:\Users\lyluk\source\pythontrial
-cmd: 'C:\Users\lyluk\source\pythontrial\.tox\py38\Scripts\python.EXE' -m pip install parameterized
-Collecting parameterized
-  Downloading parameterized-0.7.1-py2.py3-none-any.whl (24 kB)
-Installing collected packages: parameterized
-Successfully installed parameterized-0.7.1
