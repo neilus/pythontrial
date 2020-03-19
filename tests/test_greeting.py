@@ -5,8 +5,8 @@ from greeting.greeting import hello
 class TestGreeting(unittest.TestCase):
 
     @parameterized.expand([
-        ["Lilla", "Lilla"],
-        ["Béla","Béla"],
+        ["Lilla", "Hello Lilla"],
+        ["Béla","Hello Béla"],
     ])
     def test_hello (self, input, expected):
         
