@@ -1,3 +1,3 @@
-print("Hello World")
+from greeting.greeting import hello
 
-hello("Hello World")
+print(hello("World"))
