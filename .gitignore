@@ -6,3 +6,4 @@ virtualenv/
 *.log
 *.html
 *.xml
+notebooks/.ipynb_checkpoints/
